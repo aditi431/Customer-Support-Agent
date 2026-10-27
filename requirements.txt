@@ -1,0 +1,11 @@
+
+google-genai
+python-dotenv
+streamlit
+sentence-transformers==3.4.1
+scikit-learn
+pytest
+fastapi>=0.115,<1
+uvicorn>=0.30,<1
+langgraph>=1.0,<2
+langgraph-checkpoint-sqlite>=3.0,<4

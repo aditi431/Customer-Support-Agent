@@ -1,0 +1,30 @@
+
+[
+  {
+    "order_id": "ORD1001",
+    "customer_name": "Demo Customer",
+    "status": "Delivered",
+    "product": "Wireless Headphones",
+    "delivery_days_ago": 3,
+    "product_condition": "Wrong product received",
+    "refund_status": "Not requested"
+  },
+  {
+    "order_id": "ORD1002",
+    "customer_name": "Demo Customer",
+    "status": "Shipped",
+    "product": "Keyboard",
+    "delivery_days_ago": null,
+    "product_condition": "Unknown",
+    "refund_status": "Not requested"
+  },
+  {
+    "order_id": "ORD1003",
+    "customer_name": "Demo Customer",
+    "status": "Delivered",
+    "product": "Mouse",
+    "delivery_days_ago": 10,
+    "product_condition": "Damaged",
+    "refund_status": "Under review"
+  }
+]
